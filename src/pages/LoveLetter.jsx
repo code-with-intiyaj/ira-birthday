@@ -5,43 +5,43 @@ const LoveLetter = () => {
     const lettersData = [
         {
             id: 1,
-            name: "Intiyaj",
+            name: "Ira",
             msg: "Wish you the happiest birthday",
         },
         {
             id: 2,
-            name: "Intiyaj",
-            msg: "One picture from you can change my whole day, my whole mood, my whole heartbeat.",
+            name: "Ira",
+            msg: "May your year be filled with laughter, good health, and endless happiness.",
         },
         {
             id: 3,
-            name: "Intiyaj",
-            msg: "Even through screens and pixels, your laugh reaches me like sunlight through a window—warm, real, and impossible to forget.",
+            name: "Ira",
+            msg: "“The more you praise and celebrate your life, the more there is in life to celebrate.”",
         },
         {
             id: 4,
-            name: "Intiyaj",
-            msg: "Every notification from you feels like a heartbeat whispering, I’m here, and I love you.",
+            name: "Ira",
+            msg: "Today is your day. Shine bright, smile big, and enjoy every single moment!",
         },
         {
             id: 5,
-            name: "Intiyaj",
-            msg: "Our messages might travel through wires, but every word you send lands straight in my heart.",
+            name: "Ira",
+            msg: "“Age is just a number; the memories you make are what truly count.”",
         },
         {
             id: 6,
-            name: "Intiyaj",
-            msg: "Ever since our we met, my heart knew where it wanted to stay— with you, in every soft moment, every smile, every quiet piece of forever.",
+            name: "Ira",
+            msg: "May all your dreams take flight and every goal you set this year come true.",
         },
         {
             id: 7,
-            name: "Intiyaj",
-            msg: " but you turned it into a memory my heart refuses to forget. Since then, every moment with you has felt softer, brighter, and filled with a kind of peace only you bring.",
+            name: "Ira",
+            msg: "“Every birthday is a new page. Make this one your best story yet.”",
         },
         {
             id: 8,
-            name: "Intiyaj",
-            msg: "Since our first conversation, you’ve been the quiet spark that changed my world, turning ordinary days into moments that feel beautifully meant to be.",
+            name: "Ira",
+            msg: "Cheers to another amazing year. Keep smiling, keep growing, and keep being you. Happy Birthday!",
         },
     ];
     const [openEnvelope, setOpenEnvelope] = useState(false);
@@ -127,8 +127,8 @@ const LoveLetter = () => {
                     </button>
                     <div className="munna envelope-flap text-black relative">
                         <div className='munna absolute left-1/2 top-[20%] -translate-x-1/2 flex items-center justify-center flex-col md:gap-y-2'>
-                            <span className='munna font-sriracha md:text-2xl text-lg'>Envelope Of Love</span>
-                            <span className='munna font-dancingScript md:text-3xl text-xl'>Dear Mariaa</span>
+                            <span className='munna font-sriracha md:text-2xl text-lg'>Envelope Of Wishes</span>
+                            <span className='munna font-dancingScript md:text-3xl text-xl'>Dear Ira</span>
                         </div>
                     </div>
                     <div className="munna envelope-folds">
